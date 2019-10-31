@@ -102,6 +102,7 @@
 	font-size:18px;
 	list-style:none;
 	line-height:2;
+	text-align:center;
 }
 .parte_direita a{
 	text-decoration:none;
@@ -176,7 +177,7 @@
 	.parte_direita{
 		width:100%;
 		padding-top:20px;
-	}	
+	}
 	.parte_direita li{
 		color:#FFF;
 		font-family:arial;
